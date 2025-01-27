@@ -46,6 +46,8 @@ I created this project to merge my love for music with programming. It’s desig
 - GUI development
 - Persistent data management
 
-This app showcases my ability to combine user-focused design with functionality. It’s a fun and practical tool for music lovers while being a great addition to my portfolio.
+This app showcases my ability to combine user-focused design with functionality. It’s a fun and practical tool for music lovers while being a great addition to my portfolio and GitHub.
 
 Start exploring lyrics and music like never before with the Lyrics Extractor App! 🎶
+
+https://github.com/user-attachments/assets/117c8c31-b7f8-4f46-93b0-d331f7f705f6
