@@ -2,20 +2,15 @@
 This project is a Python-based Lyrics Extractor App with a graphical user interface (GUI) built using CustomTkinter and Tkinter. It allows users to search for song lyrics, view album art, and open song pages on Spotify and Genius. Whether you're a music enthusiast or just want quick access to song lyrics, this app has you covered!
 
 # Features
-- 🎵 Extract Lyrics
-  Search for lyrics of any song by entering the song name and artist.
+- 🎵 Extract Lyrics: Search for lyrics of any song by entering the song name and artist.
   
-- 🎨 View Album Art
-  Automatically fetch and display the album art of the searched song.
+- 🎨 View Album Art: Automatically fetch and display the album art of the searched song.
   
-- 🔗 Open on Spotify and Genius
-  Quickly access the song’s Spotify page or its Genius page with the click of a button.
+- 🔗 Open on Spotify and Genius: Quickly access the song’s Spotify page or its Genius page with the click of a button.
   
-- 🕶️ Dark Mode Toggle
-  Switch between light and dark modes for a comfortable viewing experience.
+- 🕶️ Dark Mode Toggle: Switch between light and dark modes for a comfortable viewing experience.
   
-- 🔄 Search History Persistence
-  Save your search history to a local file (search_history.json) so you can revisit it after restarting the app.
+- 🔄 Search History Persistence: Save your search history to a local file (search_history.json) so you can revisit it after restarting the app.
   
 # Technologies Used
 - Python: Core programming language.
@@ -33,7 +28,7 @@ This project is a Python-based Lyrics Extractor App with a graphical user interf
 # Why You’ll Love It
 🎤 Tired of searching multiple websites for lyrics? With this app, you can:
 
--Instantly get lyrics and album art in one place.
+- Instantly get lyrics and album art in one place.
 - Keep track of your favourite songs using the search history.
 - Easily open Spotify or Genius pages to explore more about the song.
 
